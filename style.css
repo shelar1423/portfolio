@@ -1,0 +1,72 @@
+body{
+    background-color: #ACB1D6;
+}
+h1{
+    color: #FFEAD2;
+
+    text-align: center;
+   
+}
+.heading{
+    text-align: center;
+    font-size: xx-large;
+    background-color:#8294C4;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: 0%;
+
+}
+.tags{
+
+    text-align:center;
+    padding-top:0px ;
+    word-spacing: 20px;
+    background-color:#8294C4;
+    padding-bottom: 50px;
+}
+.a{
+    color: white;
+    
+}
+#headingrepo
+{
+  color:white;
+  font-size: 2rem;
+  font-weight: bolder;
+ text-align: left;
+ padding-left: 20px;
+}
+.repo{
+    height:400px;
+    width: 550px;
+    padding: 15px;
+    margin: 0%;
+
+}
+.aboutme
+{
+    color: black;
+        font-size: 2rem;
+        font-weight: bolder;
+        text-align: left;
+        padding-left: 20px;
+}
+.contact
+{
+    width: 100px;
+    height: 100px;
+    
+    padding-left: 50%;
+    padding-top: 100px;
+
+  
+}
+#ko
+{
+    scroll-margin-top: 25%;
+    padding: 100px;
+}
+#second{
+    margin-bottom: 25%;
+        padding: 100px;
+    }
